@@ -12,7 +12,7 @@ The default username and password is root / toor.
     * Only works on modern UEFI based systems
 3. Use `dd` to flash the ISO to a USB drive
     * Would only recommend for older BIOS based systems
-
+4. Use https://www.ventoy.net/en/index.html
 
 
 ## Tools
